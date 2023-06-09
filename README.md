@@ -3,9 +3,20 @@
 <h1 align="center">Hi 👋, I'm Evelyn Alvarez</h1>
 <h3 align="center">There's always something new to LEARN!</h3>
 
-- 📫 How to reach me **https://www.linkedin.com/in/evelyn-a-alvarez/**
+- 📫 How to reach me **https://www.linkedin.com/in/evelyn-a-alvarez** - 📄 My experience **https://www.linkedin.com/in/evelyn-a-alvarez**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/evelyn-a-alvarez/](https://www.linkedin.com/in/evelyn-a-alvarez/)
+<h2 align="center">Bio</h2>
+<p>I am a full stack web developer with 6 months experience in the industry. I have a strong understanding of all aspects of web development, from front-end development with HTML, CSS, and JavaScript to back-end development with PostgreSQL, React, Rails, Ruby on Rails. I am also proficient in a variety of other technologies, including Flowbite and Tailwind CSS.
+
+I am passionate about building quality, user-friendly web applications. I am also a strong advocate for open source software and I am always looking for ways to contribute to the community.
+
+In my spare time, I enjoy organizing, creating Amazon Merch apparel, Amazon KDP books, spending time with my family and just learning everything I can. 
+
+I am confident that I have the skills and experience necessary to be a valuable asset. I am eager to learn new things and I am always willing to go the extra mile.
+
+If you are looking for a talented and experienced Full Stack Web Developer, I would be honored to have the opportunity to discuss my qualifications with you.
+
+Thank you for visiting my page. </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
